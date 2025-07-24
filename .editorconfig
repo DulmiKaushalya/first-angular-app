@@ -1,4 +1,7 @@
 # Editor configuration, see https://editorconfig.org
+
+# rules for all files
+# This file is used to maintain consistent coding styles across different editors and IDEs.
 root = true
 
 [*]
